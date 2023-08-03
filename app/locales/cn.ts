@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      "欢迎使用Z·AI，您还没有填写访问码，请[点击这里](/#/auth)页输入正确的访问密码，即可开始使用。",
   },
   Auth: {
     Title: "需要密码",
